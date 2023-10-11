@@ -13,3 +13,23 @@ Welcome to NextPallette, your go-to source for a versatile and beautifully craft
 - **_Next.js:_** A React framework for building server-rendered React applications.
 - **_TypeScript:_** A statically typed superset of JavaScript that helps catch type-related errors during development.
 - **_PostCSS:_** A CSS preprocessor that enables you to use modern CSS features.
+
+# Build and Start the project
+
+## Next Development
+
+```
+yarn dev
+```
+
+## Next Build
+
+```
+yarn build
+```
+
+## Next Production Start
+
+```
+yarn start
+```
