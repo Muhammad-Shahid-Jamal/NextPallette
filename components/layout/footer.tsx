@@ -11,8 +11,8 @@ function Footer() {
               className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
               src="/next.svg"
               alt="Next.js Logo"
-              width={180}
-              height={37}
+              width={100}
+              height={25}
               priority
             />
             <span className="self-center text-2xl text-blue-800 ml-4 font-semibold whitespace-nowrap dark:text-white">
