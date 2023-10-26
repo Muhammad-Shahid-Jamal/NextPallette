@@ -4,7 +4,7 @@ import DemoComponents from "./demoComponents";
 
 function LandingPage() {
   return (
-    <div className="flex h-full ">
+    <div className="flex h-full max-md:flex-col max-md:justify-around">
       <Introduction />
       <DemoComponents />
     </div>
