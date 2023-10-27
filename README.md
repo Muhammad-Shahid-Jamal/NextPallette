@@ -33,3 +33,10 @@ yarn build
 ```
 yarn start
 ```
+
+## Contributors
+
+<!-- CONTRIBUTORS-LIST:START -->
+- [arhamabeer](https://github.com/arhamabeer)
+- [Muhammad-Shahid-Jamal](https://github.com/Muhammad-Shahid-Jamal)
+<!-- CONTRIBUTORS-LIST:END -->
