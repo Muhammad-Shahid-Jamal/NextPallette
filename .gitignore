@@ -3,3 +3,4 @@ yarn.lock
 .DS_Store
 node_modules
 .next
+pnpm-lock.yaml
