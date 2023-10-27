@@ -37,6 +37,5 @@ yarn start
 ## Contributors
 
 <!-- CONTRIBUTORS-LIST:START -->
-- [arhamabeer](https://github.com/arhamabeer)
-- [Muhammad-Shahid-Jamal](https://github.com/Muhammad-Shahid-Jamal)
+<a href="https://github.com/Muhammad-Shahid-Jamal/NextPallette/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Muhammad-Shahid-Jamal/NextPallette" /> </a>
 <!-- CONTRIBUTORS-LIST:END -->
