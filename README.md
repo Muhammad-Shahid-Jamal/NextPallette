@@ -1,5 +1,7 @@
 # NextPallette
 
+![landing page](/public/Screenshot%202023-10-28%20171720.png)
+
 ## Node Environment
 
 NODE >= v18
