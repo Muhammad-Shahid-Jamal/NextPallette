@@ -1,5 +1,7 @@
 # NextPallette
 
+![landing page](/public/Screenshot%202023-10-28%20171720.png)
+
 ## Node Environment
 
 NODE >= v18
@@ -37,6 +39,5 @@ yarn start
 ## Contributors
 
 <!-- CONTRIBUTORS-LIST:START -->
-- [arhamabeer](https://github.com/arhamabeer)
-- [Muhammad-Shahid-Jamal](https://github.com/Muhammad-Shahid-Jamal)
+<a href="https://github.com/Muhammad-Shahid-Jamal/NextPallette/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Muhammad-Shahid-Jamal/NextPallette" /> </a>
 <!-- CONTRIBUTORS-LIST:END -->
