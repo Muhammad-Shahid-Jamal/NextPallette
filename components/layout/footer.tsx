@@ -15,7 +15,7 @@ function Footer() {
               height={25}
               priority
             />
-            <span className="self-center text-2xl text-blue-800 ml-4 font-semibold whitespace-nowrap dark:text-white">
+            <span className="self-center text-2xl text-navTextColor ml-4 font-semibold whitespace-nowrap dark:text-white">
               Next Pallette
             </span>
           </a>

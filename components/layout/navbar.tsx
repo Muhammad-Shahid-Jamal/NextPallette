@@ -14,7 +14,7 @@ function Navbar() {
             height={30}
             priority
           />
-          <span className="self-center ml-4 text-blue-800 text-2xl font-semibold whitespace-nowrap dark:text-white">
+          <span className="self-center ml-4 text-navTextColor text-2xl font-semibold whitespace-nowrap dark:text-white">
             Next Pallette
           </span>
         </a>
